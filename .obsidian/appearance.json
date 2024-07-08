@@ -2,5 +2,9 @@
   "theme": "obsidian",
   "interfaceFontFamily": "Nirmala UI",
   "textFontFamily": "Maple Mono SC NF",
-  "monospaceFontFamily": "Maple Mono"
+  "monospaceFontFamily": "Maple Mono",
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "extended-colorschemes"
+  ]
 }

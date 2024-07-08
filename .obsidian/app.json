@@ -1,3 +1,5 @@
 {
-  "livePreview": true
+  "livePreview": true,
+  "trashOption": "local",
+  "attachmentFolderPath": "00 attachment"
 }
