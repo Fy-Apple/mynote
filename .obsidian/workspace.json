@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cf364487a0c95df4",
+        "id": "826c38cbce4cce45",
         "type": "tabs",
         "children": [
           {
-            "id": "6f3301ee3eb6c602",
+            "id": "6e93af5e3837bd35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/Linux多线程服务端/多线程.md",
+                "file": "Note/Linux多线程/muduo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/Linux多线程服务端/多线程.md",
+                "file": "Note/Linux多线程/muduo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/Linux多线程服务端/多线程.md",
+                "file": "Note/Linux多线程/muduo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Linux多线程服务端/多线程.md"
+                "file": "Note/Linux多线程/muduo.md"
               }
             }
           }
@@ -138,26 +138,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "dd5fa69c5d43949e",
+  "active": "6e93af5e3837bd35",
   "lastOpenFiles": [
-    "Note/Linux多线程服务端/muduo.md",
-    "Note/Linux多线程服务端/CPP.md",
-    "linux/test.md",
+    "Note/Linux多线程/多线程.md",
+    "Note/Linux多线程/muduo.md",
+    "Note/网络/IO模型.md",
+    "Note/网络/高性能网络模式： Reactor 和 Proactor.md",
+    "README.md",
+    "Note/网络",
+    "欢迎.md",
+    "Note/Linux多线程/CPP.md",
     "PDF/《Linux多线程服务端编程：使用muduo C++网络库》.(陈硕).[PDF]@ckook.pdf",
     "PDF",
     "00 attachment",
-    "Note/Linux多线程服务端/多线程.md",
-    "欢迎.md",
-    "Note/Linux多线程服务端",
+    "Note/Linux多线程",
     "Note",
     "linux",
     "luminoviz"
